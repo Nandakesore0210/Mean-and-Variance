@@ -49,6 +49,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 Developed by: Nandakesore J
+
 Register Number: 23009689
 
 ![image](https://github.com/Nandakesore0210/Mean-and-Variance/assets/149365088/0fad5671-fa16-4c0c-a702-848fe59682a5)
